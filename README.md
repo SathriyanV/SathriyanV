@@ -4,4 +4,4 @@
 
 ### welocme to my GitHub page
 
-<img src="Images/Sathriyan Image 2.png" alt="Stickman" width="100" height="100">
+<img src="https://github.com/SathriyanV/Profile_Files/blob/af2f937eb5b8e865a541ee7c9f8fa70152d00b04/Images/Sathriyan%20Image%202.png" alt="Stickman" width="100" height="100">
